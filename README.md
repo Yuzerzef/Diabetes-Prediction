@@ -18,5 +18,6 @@ This dataset contains Pima Indians Diabetes
 ![Capte](https://user-images.githubusercontent.com/67466471/125610073-f8d62647-4237-49b0-8a81-c7a41d0fa222.JPG)
 
 
+
 Pima Indians Diabetes:
 https://www.kaggle.com/uciml/pima-indians-diabetes-database
